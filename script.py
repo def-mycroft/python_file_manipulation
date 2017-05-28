@@ -1,3 +1,5 @@
+"""In a dir with a list of subdirs, find files of type azw and copy them to downloads folder
+"""
 import os, shutil
 
 def gen_dir_list():
